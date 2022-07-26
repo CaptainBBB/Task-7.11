@@ -23,4 +23,4 @@ Python - это круто!
 
 Sample Output:
 
-python-eto-kruto
+python-eto-kruto!
